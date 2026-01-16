@@ -12,8 +12,8 @@
 
 `*## 📌 Мои проекты:*`
 
-- `*[Flask API для погоды](https://github.com/user/weather-api)*`
-- `*[Telegram бот с мини-играми](https://github.com/user/telegram-bot)*`
+- `*[Сайт с блогами](https://github.com/user/weather-api)*`
+- `*[Telegram бот с мини-играми](https://github.com/Danatello710/TG)*`
 - `*[Модель предсказания цен](https://github.com/user/prices)*`
 
-`*📫 Контакты: [Telegram](https://t.me/username) | [LinkedIn](https://linkedin.com/in/username)*`
+`*📫 Контакты: [Telegram](https://t.me/username)*`
