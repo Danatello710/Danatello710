@@ -14,6 +14,6 @@
 
 - `*[Сайт с блогами](https://github.com/Danatello710/BLOG)*`
 - `*[Telegram бот с мини-играми](https://github.com/Danatello710/TG)*`
-- `*[Модель предсказания цен](https://github.com/user/prices)*`
+- `*[2D Джампер](https://github.com/Danatello710/GAME)*`
 
-`*📫 Контакты: [Telegram](https://t.me/username)*`
+`*📫 Контакты: [Telegram](https://t.me/Popatika1095)*`
