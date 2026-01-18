@@ -1,8 +1,8 @@
-*# Привет! 👋 Я [Даня]*
+* Привет! 👋 Я [Даня]*
 
 `*💡 Python-разработчик, интересуюсь Backend.*
 
-*## 🔧 Мои Hard Skills:
+* 🔧 Мои Hard Skills:
 
 - *Python, ООП, алгоритмы*
 - *Telegram, pyrogram*
@@ -10,13 +10,13 @@
 - *Flask, REST API*
 - *SQLite*
 
-- *## 🔧 Мои Soft Skills:*
+- * 🔧 Мои Soft Skills:*
 
 - *Работа в команде*
 - *Чесность*
 - *Адаптивность*
 
-*## 📌 Мои проекты:*
+* 📌 Мои проекты:*
 
 - *[Сайт с блогами](https://github.com/Danatello710/BLOG)*
 - *[Telegram бот с мини-играми](https://github.com/Danatello710/TG)*
